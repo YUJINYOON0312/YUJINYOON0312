@@ -17,9 +17,7 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Ajax-0085CA?style=flat-square&logo=Ajax&logoColor=white"/></a>&nbsp
-  
     <br>
-    
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/MyBatis-D24939?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
