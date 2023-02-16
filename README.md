@@ -17,12 +17,13 @@
 ### ✨ I can use...
 <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp 
     <br>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/MyBatis-D24939?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/github-181717?style==flat-square&logo=github&logoColor=white">&nbsp 
+    <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp 
 </p>
 
 
