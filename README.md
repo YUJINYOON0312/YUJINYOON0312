@@ -1,8 +1,7 @@
 ## 👋 It's me! 👋
 📧 azby246@naver.com <br>
 📝 https://bokk-coding.tistory.com
-
-***
+<br>
 
 ## 💻 Teck Stack 💻
 
@@ -25,8 +24,8 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/github-181717?style==flat-square&logo=github&logoColor=white">&nbsp 
 </p>
+<br>
 
-***
 
-### 💡 My Github 💡
+#### 💡 My Github 💡
 ![YUJINYOON0312's github stats](https://github-readme-stats.vercel.app/api?username=YUJINYOON0312&show_icons=true)
