@@ -1,10 +1,12 @@
-### 👋 It's me! 👋
+## 👋 It's me! 👋
 📧 azby246@naver.com <br>
 📝 https://bokk-coding.tistory.com
 
-### 💻 Teck Stack 💻
+***
 
-#### ✨ I'm advance in...
+## 💻 Teck Stack 💻
+
+### ✨ I'm advance in...
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
@@ -13,7 +15,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
-#### ✨ I can use...
+### ✨ I can use...
 <p>
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-squar&logo=jQuery&logoColor=white"/></a>&nbsp 
@@ -24,5 +26,7 @@
     <img src="https://img.shields.io/badge/github-181717?style==flat-square&logo=github&logoColor=white">&nbsp 
 </p>
 
-#### 💡 My Github 💡
+***
+
+### 💡 My Github 💡
 ![YUJINYOON0312's github stats](https://github-readme-stats.vercel.app/api?username=YUJINYOON0312&show_icons=true)
