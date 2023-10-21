@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/MyBatis-D24939?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
 </p>
 
@@ -23,7 +24,6 @@
     <img src="https://img.shields.io/badge/Ajax-0085CA?style=flat-square&logo=Ajax&logoColor=white"/></a>&nbsp
     <br>
     <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/MyBatis-D24939?style=flat-square&logo=MyBatis&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
     <br>
