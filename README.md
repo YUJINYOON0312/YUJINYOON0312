@@ -1,6 +1,5 @@
 ## 👋 It's me! 👋
 📧 azby246@naver.com <br>
-📝 https://bokk-coding.tistory.com
 <br>
 
 ## 💻 Teck Stack 💻
